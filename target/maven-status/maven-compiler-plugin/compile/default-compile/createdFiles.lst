@@ -1,0 +1,7 @@
+org/cwatch/datastore/WebServiceDataStore.class
+org/cwatch/http/HttpRestClient.class
+org/cwatch/datastore/WebServiceFeatureReader.class
+org/cwatch/http/HttpUrlBuilder.class
+org/cwatch/datastore/factory/WebServiceDataStoreFactory.class
+org/cwatch/http/HttpUrlConnectionReader.class
+org/cwatch/datastore/WebServiceFeatureSource.class
