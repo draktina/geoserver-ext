@@ -1,1 +1,1 @@
-eu.europa.emsa.datastore.factory.WebServiceDataStoreFactory
+org.cwatch.datastore.factory.WebServiceDataStoreFactory

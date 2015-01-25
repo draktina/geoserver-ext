@@ -1,4 +1,4 @@
-package eu.europa.emsa.http;
+package org.cwatch.http;
 
 import org.apache.commons.io.IOUtils;
 import org.apache.http.HttpResponse;

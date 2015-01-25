@@ -1,4 +1,4 @@
-package eu.europa.emsa.http;
+package org.cwatch.http;
 
 import org.apache.http.conn.HttpHostConnectException;
 import org.junit.Test;

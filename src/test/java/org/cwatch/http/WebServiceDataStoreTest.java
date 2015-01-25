@@ -1,4 +1,4 @@
-package eu.europa.emsa.http;
+package org.cwatch.http;
 
 /**
  * Created by draktina on 1/24/15.
@@ -24,20 +24,16 @@ package eu.europa.emsa.http;
  */
 
 import java.io.File;
-import java.io.FileInputStream;
 import java.io.FileNotFoundException;
-import java.io.FilenameFilter;
 import java.io.IOException;
 import java.io.Serializable;
-import java.util.Enumeration;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
-import java.util.Properties;
 
-import eu.europa.emsa.datastore.WebServiceDataStore;
-import eu.europa.emsa.datastore.WebServiceFeatureSource;
-import eu.europa.emsa.datastore.factory.WebServiceDataStoreFactory;
+import org.cwatch.datastore.WebServiceDataStore;
+import org.cwatch.datastore.WebServiceFeatureSource;
+import org.cwatch.datastore.factory.WebServiceDataStoreFactory;
 import org.geotools.data.DataTestCase;
 
 import org.geotools.data.DataStore;
